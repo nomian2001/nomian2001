@@ -1,5 +1,8 @@
 ### Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomian2001&theme=algolia)
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nomian2001&theme=algolia)
 <!--
 **nomian2001/nomian2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
