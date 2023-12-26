@@ -1,3 +1,5 @@
+![](technologies.webp)
+
 <div style="display: flex; justify-content: space-between; align-items: center">
 <div>
 <h1>Hi, I'm Tyler Do 👋</h1> 
